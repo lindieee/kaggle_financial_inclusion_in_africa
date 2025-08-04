@@ -9,7 +9,7 @@ This project is based on a Kaggle competition about predicting if people living 
 
 
 ### Model: 
-- training a binary classifier: bank account Yes/No
+- train binary classifier: bank account Yes/No
 - best model: 
     - Max-Voting-Classifier
     - base models: logistic regression, xgboost, random forest
