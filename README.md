@@ -103,6 +103,9 @@ python predict.py models/max_voting_classifier.sav data/X_test.csv data/y_test.c
 
            0       0.94        0.92     0.93       15154
            1       0.57        0.66     0.61       2483
+           
+
+    Mean Absolute Error = 0.1188
 
 
 
@@ -112,3 +115,8 @@ python predict.py models/max_voting_classifier.sav data/X_test.csv data/y_test.c
 
            0       0.94        0.91     0.92       5052
            1       0.53        0.62     0.57       827
+            
+    Mean Absolute Error = 0.1323
+
+
+
