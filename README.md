@@ -74,6 +74,11 @@ Or ....
     ```
 
 
+## Get data
+
+Get data from [here](https://zindi.africa/competitions/financial-inclusion-in-africa/data) and store it in data folder.
+
+
 
 ## Usage
 
